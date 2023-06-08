@@ -65,3 +65,9 @@ address {
 	margin: 0.8em;
 	border-radius: 5px;
 }
+
+.main-img {
+	width: 50%;
+	height: 50%;
+	margin: 0.5em;
+}
