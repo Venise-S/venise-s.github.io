@@ -1,5 +1,6 @@
 html {
 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
 }
 
 body {
@@ -40,18 +41,12 @@ ul.navbar a {
 }
 
 a:link {
-	color: white;
+	color: gray;
 	text-decoration: none;
 }
 
 a:visited {
 	color: rgb(234, 234, 234);
-}
-
-address {
-	margin-top: 1em;
-	padding-top: 1em;
-	border-top: thin dotted
 }
 
 .navbar:hover {
@@ -61,13 +56,13 @@ address {
 .main-div {
 	background-color: rgb(255, 255, 255);
 	color: rgb(14, 12, 45);
-	padding: 1em;
-	margin: 0.8em;
+	padding: 2em 4em;
+	margin: 3em;
 	border-radius: 5px;
 }
 
 .main-img {
 	width: 50%;
 	height: 50%;
-	margin: 0.5em;
+	margin: 2em;
 }
