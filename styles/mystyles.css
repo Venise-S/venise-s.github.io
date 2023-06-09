@@ -41,10 +41,6 @@ div a:link {
 	text-decoration: none;
 }
 
-div a:visited {
-	color: gray;
-}
-
 ul.navbar a {
 	text-decoration: none;
 	color: white;
