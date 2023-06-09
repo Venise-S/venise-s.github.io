@@ -46,7 +46,7 @@ a:link {
 }
 
 a:visited {
-	color: rgb(234, 234, 234);
+	color: gray;
 }
 
 .navbar:hover {
