@@ -36,12 +36,12 @@ ul.navbar li:hover {
 	background-color: black;
 }
 
-a:link {
+div a:link {
 	color: gray;
 	text-decoration: none;
 }
 
-a:visited {
+div a:visited {
 	color: gray;
 }
 
